@@ -1,15 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="215593ec-01df-494f-9cb1-c813b254dda1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/FinalExam.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final Exam 1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Final Exam 2.py" afterDir="false" />
+    <list default="true" id="215593ec-01df-494f-9cb1-c813b254dda1" name="Changes" comment="This is my final exam submission">
+      <change afterPath="$PROJECT_DIR$/FInal Exam 7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FInal Exam 9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Exam 10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Exam 5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Exam 6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Final Exam 8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Question 6" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Final Exam 4.py" beforeDir="false" afterPath="$PROJECT_DIR$/Final Exam 4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +28,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "kievec"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/kievec/Final-Exam.git",
+    "accountId": "cad5e8a9-850d-4fda-9f8b-4f926a5e6bfc"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -37,18 +51,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;ai.playground.ignore.import.keys.banner.in.settings&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.FInal Exam 7.executor": "Run",
+    "Python.Final Exam 10.executor": "Run",
+    "Python.Final Exam 4.executor": "Run",
+    "Python.Final Exam 5.executor": "Run",
+    "Python.Final Exam 6.executor": "Run",
+    "Python.Final Exam 8.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "ai.playground.ignore.import.keys.banner.in.settings": "true",
+    "git-widget-placeholder": "master",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -66,10 +87,40 @@
       <updated>1772463116080</updated>
       <workItem from="1772463117093" duration="17000" />
       <workItem from="1772463142911" duration="9000" />
+      <workItem from="1772463160972" duration="2089000" />
     </task>
+    <task id="LOCAL-00001" summary="This is my final exam submission">
+      <option name="closed" value="true" />
+      <created>1772463238932</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1772463238932</updated>
+    </task>
+    <task id="LOCAL-00002" summary="This is my final exam submission">
+      <option name="closed" value="true" />
+      <created>1772463247400</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1772463247400</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="This is my final exam submission" />
+    <option name="LAST_COMMIT_MESSAGE" value="This is my final exam submission" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FinalExam$Final_Exam_4.coverage" NAME="Final Exam 4 Coverage Results" MODIFIED="1772463397075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FinalExam$Final_Exam_5.coverage" NAME="Final Exam 5 Coverage Results" MODIFIED="1772463689096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FinalExam$Final_Exam_6.coverage" NAME="Final Exam 6 Coverage Results" MODIFIED="1772464255811" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FinalExam$FInal_Exam_7.coverage" NAME="FInal Exam 7 Coverage Results" MODIFIED="1772464459005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FinalExam$Final_Exam_8.coverage" NAME="Final Exam 8 Coverage Results" MODIFIED="1772464733317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FinalExam$Final_Exam_10.coverage" NAME="Final Exam 10 Coverage Results" MODIFIED="1772464862424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
